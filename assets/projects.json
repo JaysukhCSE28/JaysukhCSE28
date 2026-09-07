@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SentinelCode",
+    "repo": "JaysukhCSE28/SentinelCode",
+    "description": "AST-based static code analyzer detecting SQLi vectors and generating parameterized patches.",
+    "language": "Python",
+    "tags": ["AST", "Security", "Static-Analysis", "Python"]
+  },
+  {
+    "name": "Safe-Ghar",
+    "repo": "JaysukhCSE28/Safe-Ghar",
+    "description": "Embedded safety hardware architecture with real-time GSM alert dispatch.",
+    "language": "C++",
+    "tags": ["IoT", "Embedded-C", "Firmware", "Sensors"]
+  },
+  {
+    "name": "Thiranmozhi",
+    "repo": "JaysukhCSE28/Thiranmozhi",
+    "description": "Adaptive linguistic learning engine with real-time performance vector evaluation.",
+    "language": "TypeScript",
+    "tags": ["Next.js", "Firebase", "State-Machine"]
+  },
+  {
+    "name": "UpNext-AI",
+    "repo": "JaysukhCSE28/UpNext-AI",
+    "description": "Adaptive intelligent gamified learning platform and evaluation backend.",
+    "language": "Python",
+    "tags": ["FastAPI", "Machine-Learning", "Algorithms"]
+  }
+]
